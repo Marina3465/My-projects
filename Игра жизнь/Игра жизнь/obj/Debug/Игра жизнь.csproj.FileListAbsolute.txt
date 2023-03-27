@@ -1,0 +1,10 @@
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\bin\Debug\Игра жизнь.exe.config
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\bin\Debug\Игра жизнь.exe
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\bin\Debug\Игра жизнь.pdb
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\obj\Debug\Игра жизнь.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\obj\Debug\Игра_жизнь.Form1.resources
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\obj\Debug\Игра_жизнь.Properties.Resources.resources
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\obj\Debug\Игра жизнь.csproj.GenerateResource.cache
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\obj\Debug\Игра жизнь.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\obj\Debug\Игра жизнь.exe
+C:\Users\Марина\source\repos\Игра жизнь\Игра жизнь\obj\Debug\Игра жизнь.pdb

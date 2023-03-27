@@ -1,0 +1,11 @@
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\bin\Debug\графики на ванну.exe.config
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\bin\Debug\графики на ванну.exe
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\bin\Debug\графики на ванну.pdb
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики на ванну.csproj.ResolveComReference.cache
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики_на_ванну.Form1.resources
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики_на_ванну.Properties.Resources.resources
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики на ванну.csproj.GenerateResource.cache
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики на ванну.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики на ванну.exe
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики на ванну.pdb
+C:\Users\Марина\source\repos\графики на ванну\графики на ванну\obj\Debug\графики на ванну.csproj.AssemblyReference.cache

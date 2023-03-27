@@ -1,0 +1,54 @@
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Кожухар_ИТ2001_ITformat.accdb
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.exe.config
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.exe
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.pdb
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Form1.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Properties.Resources.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.GenerateResource.cache
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.exe
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.pdb
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Клиенты.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Договор.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Заказы.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Этапы_проекта.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Сотрудники.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Услуги.resources
+C:\Users\Марина\source\repos\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.ResolveComReference.cache
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Кожухар_ИТ2001_ITformat.accdb
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.exe.config
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.exe
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.pdb
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csprojAssemblyReference.cache
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.ResolveComReference.cache
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Form1.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Properties.Resources.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Договор.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Заказы.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Клиенты.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Сотрудники.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Услуги.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Этапы_проекта.resources
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.GenerateResource.cache
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.exe
+C:\Users\Марина\Desktop\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.pdb
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Кожухар_ИТ2001_ITformat.accdb
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.exe.config
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.exe
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\bin\Debug\Отдел по работе с клиентами IT-Format.pdb
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.AssemblyReference.cache
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.ResolveComReference.cache
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Form1.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Properties.Resources.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Договор.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Заказы.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Клиенты.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Сотрудники.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Услуги.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел_по_работе_с_клиентами_IT_Format.Этапы_проекта.resources
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.GenerateResource.cache
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.exe
+D:\Учёба\2 курс 2 семестр\Кожухар_ИТ2001_практика\Отдел по работе с клиентами IT-Format\Отдел по работе с клиентами IT-Format\obj\Debug\Отдел по работе с клиентами IT-Format.pdb
