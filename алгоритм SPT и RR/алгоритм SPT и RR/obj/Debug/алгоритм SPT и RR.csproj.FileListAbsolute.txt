@@ -1,0 +1,10 @@
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\bin\Debug\алгоритм SPT и RR.exe.config
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\bin\Debug\алгоритм SPT и RR.exe
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\bin\Debug\алгоритм SPT и RR.pdb
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\obj\Debug\алгоритм SPT и RR.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\obj\Debug\алгоритм_SPT_и_RR.Form1.resources
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\obj\Debug\алгоритм_SPT_и_RR.Properties.Resources.resources
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\obj\Debug\алгоритм SPT и RR.csproj.GenerateResource.cache
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\obj\Debug\алгоритм SPT и RR.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\obj\Debug\алгоритм SPT и RR.exe
+C:\Users\Марина\source\repos\алгоритм SPT и RR\алгоритм SPT и RR\obj\Debug\алгоритм SPT и RR.pdb
